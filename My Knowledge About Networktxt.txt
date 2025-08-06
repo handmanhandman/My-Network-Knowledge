@@ -1,0 +1,104 @@
+📘 My Knowledge : What Is a Network?
+
+Have you thought about how networks work?
+What happens when we open a website?
+Or even — what is a network?
+
+Now I want to tell you about these things 😁
+(with my bad English 😅)
+
+
+---
+
+🔹 What Is a Network?
+
+If we go and look at the grammar or dictionary, the meaning or definition is:
+
+> "Two or more computers sharing data with each other is a network."
+
+
+
+And this definition is not only for the computer world!
+
+
+---
+
+🔹 Types of Area Networks (Based on Size)
+
+Now that we know what the word "network" means,
+it's time to talk about the sizes of networks.
+
+We have different kinds of area networks with different shapes and sizes.
+These are usually called area networks.
+
+I want to explain just three of them!
+(But actually, there are more than three.)
+
+
+---
+
+🔸 1. Local Area Network (LAN)
+
+A Local Area Network is a network that covers a limited geographical area like:
+
+A home
+
+A building
+
+An office
+
+
+When devices in these places are connected to each other and share resources (like printers, files, or internet), we call it a LAN.
+
+
+---
+
+🔸 2. Metropolitan Area Network (MAN)
+
+As the name suggests, a Metropolitan Area Network is used in cities.
+
+Just like LAN, it uses fiber optic cables, which are very fast for moving data.
+These cables often go underground and connect:
+
+Buildings
+
+Colleges
+
+Offices
+
+Other organizations
+
+
+All within a city or large town.
+
+
+---
+
+🔸 3. Wide Area Network (WAN)
+
+At the end of our list, we have the Wide Area Network.
+
+This network covers large geographical areas, like:
+
+A country
+
+Or even a continent
+
+
+The best way to understand WAN is by thinking of the Internet, which is actually a collection of interconnected networks.
+
+But unlike LAN and MAN, a WAN is usually slower than them.
+
+
+---
+
+🔹 What’s Next?
+
+Now that we understand the types and sizes of area networks,
+it's time to dig deeper and explore:
+
+> 🔍 How does data move through a network?
+
+
+
+(Coming next...)
