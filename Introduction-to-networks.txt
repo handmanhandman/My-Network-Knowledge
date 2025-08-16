@@ -1,77 +1,70 @@
-# Chapter 1: Introduction to Networks
+ 📘 Chapter 1: Introduction to Networks
 
-You might ask yourself: *“What is a network? How does a network work? When we send a message, what happens in the background?”*
+You might ask yourself: *“What is a network? How does a network work? When we send a message, what happens in the background?”* 🤔
 
-I’m here to talk about those things you might have never thought about!
+I’m here to talk about those things you might have never thought about! 💡
 
-When you connect your computer to another computer—whether physically with a cable or through the internet—you create a network in its basic form.
+When you connect your computer to another computer—whether physically with a cable or through the internet—you create a network in its basic form. 🌐
 
 ---
 
-## A Common Question
+❓ A Common Question
 
 Now you might have a question: *“Okay, I know what a network is, but I don’t know how it works. When I send a resource to another computer, how does the data get sent and received by that computer?”*
 
-Before I explain that, I need to tell you about an important thing. Trust me!
+Before I explain that, I need to tell you about an important thing. Trust me! ✨
 
 ---
 
-## Types of Area Networks
+ 🌍 Types of Area Networks
 
 We have different types of area networks, as they connect to each other:
 
-
-### Local Area Network (LAN)
+ 🏠 Local Area Network (LAN)
 
 This type of network is for a small geographical area such as an office, home, building, and so on.
 
-
-### Metropolitan Area Network (MAN)
+ 🏙️ Metropolitan Area Network (MAN)
 
 This type of network is for cities and connects buildings, colleges, and so on, often with underground cables like fiber.
-The fact is, the two types I explained to you are very fast!
+The fact is, the two types I explained to you are very fast! ⚡
 
-
-### Wide Area Network (WAN)
+ 🌐 Wide Area Network (WAN)
 
 The greatest example of this type of network is the Internet!
-This type of network connects countries or continents with each other. However, compared to LAN and MAN, this type of network is slower.
-
+This type of network connects countries or continents with each other. However, compared to LAN and MAN, this type of network is slower 🐢
 
 What I mean by “slow” or “fast” is the time it takes for data to be sent and received through these types of networks.
 
-We have different types of area networks, but the three I explained to you are the most important—trust me!
+We have different types of area networks, but the three I explained to you are the most important—trust me! ✅
 
 Okay, now I have explained what an area network is. It’s time to go back to the question you asked.
 
 ---
 
-## Types of Network Connections
+ 🔌 Types of Network Connections
 
 We have two different types of connections: **peer-to-peer** or **client-server**.
 
-Now you might have a question: *“What the hell is a client or a server?”* LOL!
+Now you might have a question: *“What the hell is a client or a server?”* LOL! 😆
 
-I got you. Think like this: you are in a coffee shop. The **client** is you, and the **server** is the barista taking your order.
+I got you. Think like this: you are in a coffee shop ☕. The **client** is you, and the **server** is the barista taking your order. 👩‍🍳
 
+In a **peer-to-peer network connection**, the two systems have full access to each other’s information. No one is there to take your order—it’s like coffee without a barista. You can do everything yourself! 💪 This type is good for small networks and has good speed for sending and receiving data.
 
-In a **peer-to-peer network connection**, the two systems have full access to each other’s information. No one is there to take your order—it’s like coffee without a barista. You can do everything yourself! This type is good for small networks and has good speed for sending and receiving data.
-
-On the other hand, in a **client-server network**, as I explained earlier, it is more secure. The server has one job: to take your orders. But this type of connection can be slower because there are many clients.
-
+On the other hand, in a **client-server network**, as I explained earlier, it is more secure 🔒. The server has one job: to take your orders. But this type of connection can be slower because there are many clients. 🐢
 
 ---
 
-## Sending Data Across Long Distances
+ 🚀 Sending Data Across Long Distances
 
-So far, I have explained to you local connections, like in LAN or MAN. We have physical media, but now is not the time to explain that; I will explain it later in Chapter 6.
+So far, I have explained to you local connections, like in LAN or MAN. We have physical media, but now is not the time to explain that; I will explain it later in Chapter 6. 📖
 
-Now, if we want to send data to another computer in another city or country, we use the big dog: **WAN**. In WAN, we have two protocols. The first one is:
+Now, if we want to send data to another computer in another city or country, we use the big dog: **WAN**. 🐶
+
+In WAN, we have two protocols. The first one is:
 
 **Multiprotocol Label Switching (MPLS)**
-In this type of protocol, we create a secure path for data to travel through different routers in the WAN. By default, the data may take different paths to reach its destination, but with this protocol, we create a single, secure path for the data.
+In this type of protocol, we create a secure path for data to travel through different routers in the WAN. By default, the data may take different paths to reach its destination, but with this protocol, we create a single, secure path for the data. 🔐
 
-The other protocol is **Multipoint Generic Routing Encapsulation (MGRE)**. I don’t want to explain it to you—just search for it and learn about it yourself! That’s your job.
-
----
-
+The other protocol is **Multipoint Generic Routing Encapsulation (MGRE)**. I don’t want to explain it to you—just search for it and learn about it yourself! That’s your job. 👀
